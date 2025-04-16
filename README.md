@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Priya Kashyap</h1>
-<h3 align="center">Data Analyst | Machine Learning Engineer | ETL Developer | Exploring Data, Uncovering Insights, and Building Intelligent Solutions 🚀</h3>
+<h3 align="center">Data Analyst | CDD, AML & KYC Specialist  | ETL Developer | Exploring Data, Uncovering Insights, and Building Intelligent Solutions 🚀</h3>
 
-- 🔭 I’m currently working on **Web app to simplify the lives of data scientists**
+- 🔭 I’m currently working on **idea to simplify the lives of Financial Analyst**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Quantexa**
 
-- 👯 I’m looking to collaborate on **Temporal Classification of Social Media**
+- 👯 I’m looking to collaborate on **Entity Resolution for AML Investigations and Temporal Classification of Social Media**
 
-- 💬 Ask me about **Power BI and Data insights**
+- 💬 Ask me about **AML frameworks, CDD/KYC processes, fraud detection strategies, and deriving actionable insights from complex datasets**
 
 - 📫 How to reach me **priyakashyapp007@gmail.com**
 
-- ⚡ Fun fact **I make data work for me, but when I’m not crunching numbers, I’m probably geeking out over machine learning, automating boring stuff, or finding new ways to simplify the life from data**
+- ⚡ Fun fact **I can spot a suspicious transaction from miles away, but I still can’t figure out why my phone autocorrects 'fraud' to 'food'—maybe it knows I’m always hungry for data insights!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
