@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Quantexa**
 
-- 👯 I’m looking to collaborate on **Entity Resolution for AML Investigations and Temporal Classification of Social Media**
+- 👯 I’m looking to collaborate on **Entity Resolution for AML Investigations** and **Temporal Classification of Social Media**
 
 - 💬 Ask me about **AML frameworks, CDD/KYC processes, fraud detection strategies, and deriving actionable insights from complex datasets**
 
