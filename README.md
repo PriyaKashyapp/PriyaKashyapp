@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya Kashyap</h1>
-<h3 align="center">Data Analyst | CDD, AML & KYC Specialist  | ETL Developer | Exploring Data, Uncovering Insights, and Building Intelligent Solutions 🚀</h3>
+<h3 align="center">Machine Learning | CDD, AML & KYC Specialist  | ETL Developer | Exploring Data, Uncovering Insights, and Building Intelligent Solutions 🚀</h3>
 
 - 🔭 I’m currently working on **idea to simplify the lives of Financial Analyst**
 
