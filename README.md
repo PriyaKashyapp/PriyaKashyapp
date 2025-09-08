@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priya Kashyap</h1>
 <h3 align="center">Data Analyst | Data Engineer | ETL Developer | ML Engineer | Exploring Data, Uncovering Insights, and Building Intelligent Solutions 🚀</h3>
 
-- 🔭 I’m currently working on **idea to simplify the lives of Financial Analyst**
+- 🔭 I’m currently working on **idea to simplify the lives of Analyst**
 
-- 🌱 I’m currently learning **Quantexa**
+- 🌱 I’m currently learning **Snowflake**
 
 - 👯 I’m looking to collaborate on **Entity Resolution for AML Investigations** and **Temporal Classification of Social Media**
 
-- 💬 Ask me about **AML frameworks, CDD/KYC processes, fraud detection strategies, and deriving actionable insights from complex datasets**
+- 💬 Ask me about **Data, Reporting, Business insights, and deriving actionable insights from complex datasets**
 
 - 📫 How to reach me **priyakashyapp007@gmail.com**
 
